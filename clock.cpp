@@ -15,7 +15,7 @@ int main()
 		while(m<60)
 		{
 			while(sec<60)
-			{ //hello
+			{ //YO
 			    Sleep(1000);
 			    system("CLS");
 			    for(i=0;i<10;i++)
